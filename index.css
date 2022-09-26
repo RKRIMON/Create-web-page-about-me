@@ -1,0 +1,68 @@
+.main{
+    width: 1000px;
+    margin: 0px auto;
+}
+.Left{
+    width: 500px;
+    float: left;
+}
+.Left h1{
+    color: blue;|
+    font-size: 50px;
+}
+.Left h3{
+    color: blue;
+    font-size: 40px;
+}
+.Left h4{
+    color: blue;
+    font-size: 30px;
+}
+.Left h5{
+    color: blue;
+    font-size: 20px;
+}
+.Left p{
+    color: red;
+    text-align: justify;
+}
+.right{
+    width: 500px;
+    float: left;
+    margin-top: 60px;
+}
+.Gallery{
+    clear: both;
+}
+.Gallery h1{
+    text-align: center;
+}
+.Gallery img{
+    width: 250px;
+    height: 250px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    border: 60000px blue;
+}
+.form{
+    width: 500px;
+    float: left;
+    margin: 10px 200px;
+}
+form input{
+    width: 500px;
+    padding: 5px;
+    margin: 5px;
+}
+form textarea{
+    width: 510px;
+    height: 200px;
+    margin: 5px auto;
+}
+.Send-Message{
+    width: 300px;
+    margin-left: 150px auto;
+    background-color: cyan;
+    color: blue;
+    border: none;
+}
